@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e2e2b8ebf541afe4a833007c65b1dccb
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 232773
+  packageName: Pixel Survivor Island
+  packageVersion: 1.0
+  assetPath: Assets/PixelSurvivorIsland/Tiles/Etc/map_sheet_32.asset
+  uploadId: 525874

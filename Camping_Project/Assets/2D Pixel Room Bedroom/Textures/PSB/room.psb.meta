@@ -1,0 +1,3673 @@
+fileFormatVersion: 2
+guid: 358eff632195583488809995b2c49051
+AssetOrigin:
+  serializedVersion: 1
+  productId: 207779
+  packageName: 2D Pixel Room Bedroom
+  packageVersion: 1.0
+  assetPath: Assets/2D Pixel Room Bedroom/Textures/PSB/room.psb
+  uploadId: 466854
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+    spritePosition: {x: 0, y: 0}
+  multiSpriteImportData: []
+  layeredSpriteImportData:
+  - name: Ceiling
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 2815
+      width: 1029
+      height: 421
+    spriteID: c850be205a361a34f952b32617ab605c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 2815}
+    spritePosition: {x: 176, y: 704}
+  - name: Chair
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1805
+      y: 2984
+      width: 153
+      height: 180
+    spriteID: 73c0c67827ef23c4f836b6e554d903c5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1805, y: 2984}
+    spritePosition: {x: 494, y: 361}
+  - name: computer
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1239
+      y: 3959
+      width: 91
+      height: 117
+    spriteID: 3c2785d0b7ddf2a40a8ec6000546b873
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1239, y: 3959}
+    spritePosition: {x: 431, y: 576}
+  - name: Book1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1454
+      y: 3137
+      width: 34
+      height: 65
+    spriteID: 41c78adc3a6ea0f48bd9c469f617852e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1454, y: 3137}
+    spritePosition: {x: 445, y: 748}
+  - name: Book2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1980
+      y: 423
+      width: 31
+      height: 61
+    spriteID: 169d7d6940f6df643bcf03a6b7b82d3e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1980, y: 423}
+    spritePosition: {x: 455, y: 753}
+  - name: slipper
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1666
+      y: 3133
+      width: 64
+      height: 45
+    spriteID: 628a5803a6a3a9f4dac6f1e3bf7a7c7a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1666, y: 3133}
+    spritePosition: {x: 747, y: 344}
+  - name: football
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1666
+      y: 3186
+      width: 50
+      height: 49
+    spriteID: 6dfb7101dc49f214789aaab456c813b6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1666, y: 3186}
+    spritePosition: {x: 807, y: 260}
+  - name: carpet
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1522
+      y: 2815
+      width: 303
+      height: 152
+    spriteID: b3367debbe472a3468fb185284c61aad
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1522, y: 2815}
+    spritePosition: {x: 594, y: 271}
+  - name: Cup
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1454
+      y: 3210
+      width: 28
+      height: 19
+    spriteID: f63f382424b39124e8298b4b0fe1eee3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1454, y: 3210}
+    spritePosition: {x: 566, y: 625}
+  - name: keyboard
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1738
+      y: 3133
+      width: 56
+      height: 29
+    spriteID: 65a1638a9fdb2ca4bae897a8a2764d10
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1738, y: 3133}
+    spritePosition: {x: 488, y: 560}
+  - name: mouse
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1995
+      y: 3200
+      width: 24
+      height: 12
+    spriteID: 95d9d6f5b0991cf40a7b304c4f8ddf6c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1995, y: 3200}
+    spritePosition: {x: 548, y: 595}
+  - name: Bed-quilt
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1500
+      y: 590
+      width: 523
+      height: 327
+    spriteID: d265d83dad5b4ec46a0baa864f69b5de
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1500, y: 590}
+    spritePosition: {x: 660, y: 379}
+  - name: Bed-board
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1364
+      y: 3809
+      width: 551
+      height: 232
+    spriteID: 11193d2235e5e494b896feeb442ac6b6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1364, y: 3809}
+    spritePosition: {x: 654, y: 308}
+  - name: Bed-CabinetDrawer3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1808
+      y: 3633
+      width: 190
+      height: 131
+    spriteID: 8a0f92da05ae1fe47a3b1a5421f6b6c6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1808, y: 3633}
+    spritePosition: {x: 876, y: 322}
+  - name: Bed-CabinetDrawer2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1833
+      y: 2815
+      width: 191
+      height: 131
+    spriteID: 186683c587e30d44e86f7cac286fff2f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1833, y: 2815}
+    spritePosition: {x: 766, y: 377}
+  - name: Bed-CabinetDrawer1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1041
+      y: 3959
+      width: 190
+      height: 131
+    spriteID: fa1d0d0ffb2309641b9600ca46b460f8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1041, y: 3959}
+    spritePosition: {x: 657, y: 432}
+  - name: Bed-board_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1500
+      y: 925
+      width: 330
+      height: 221
+    spriteID: cdb7f686e40b93048a3b0f1f93b77ff9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1500, y: 925}
+    spritePosition: {x: 654, y: 311}
+  - name: cabinet1-board
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1364
+      y: 3244
+      width: 261
+      height: 557
+    spriteID: 4f20401395379c64fb6fe830e4cccf07
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1364, y: 3244}
+    spritePosition: {x: 176, y: 279}
+  - name: cabinet1-door1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 3570
+      width: 84
+      height: 361
+    spriteID: d8cf00b249d84bb448341e5c66aa960a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 3570}
+    spritePosition: {x: 266, y: 381}
+  - name: cabinet1-door2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 3570
+      width: 83
+      height: 357
+    spriteID: 47b1bef14b01de94ebf4e3cf79ae23e1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 96, y: 3570}
+    spritePosition: {x: 344, y: 423}
+  - name: cabinet1-board_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1543
+      y: 2291
+      width: 154
+      height: 120
+    spriteID: 8251cde276f02544aab3c512f64c0da5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1543, y: 2291}
+    spritePosition: {x: 270, y: 598}
+  - name: cabinet1-stick
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1923
+      y: 4025
+      width: 116
+      height: 66
+    spriteID: 49e526d25c49917449cc7060908be0ef
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1923, y: 4025}
+    spritePosition: {x: 270, y: 584}
+  - name: cabinet1-board_2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1041
+      y: 2815
+      width: 160
+      height: 400
+    spriteID: ca300c3032766984180e9b2abbdfdb45
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1041, y: 2815}
+    spritePosition: {x: 270, y: 381}
+  - name: cabinet1-drawer1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1041
+      y: 2291
+      width: 243
+      height: 151
+    spriteID: a4227729f8eeedb4cb8eb08d4303c147
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1041, y: 2291}
+    spritePosition: {x: 188, y: 334}
+  - name: cabinet1-drawer2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1292
+      y: 2291
+      width: 243
+      height: 151
+    spriteID: d94c5f4103315a6419c76f1f76eee0ab
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1292, y: 2291}
+    spritePosition: {x: 188, y: 295}
+  - name: cabinet1-board_3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1812
+      y: 423
+      width: 160
+      height: 156
+    spriteID: 4dd02c617192ac74197367c109fdbd36
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1812, y: 423}
+    spritePosition: {x: 270, y: 297}
+  - name: cabinet1-board_4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1633
+      y: 3244
+      width: 167
+      height: 501
+    spriteID: bc4747deff7bc12479b4d0685e049de7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1633, y: 3244}
+    spritePosition: {x: 270, y: 283}
+  - name: cabinet2-board1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1209
+      y: 2815
+      width: 305
+      height: 161
+    spriteID: 7e6d428e7fcfd1e4da710679a1a4b461
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1209, y: 2815}
+    spritePosition: {x: 350, y: 783}
+  - name: cabinet2-board2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1507
+      y: 2984
+      width: 290
+      height: 141
+    spriteID: 9539cced22beaf84bb69ebd41a6c814b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1507, y: 2984}
+    spritePosition: {x: 350, y: 717}
+  - name: cabinet2-board3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1209
+      y: 2984
+      width: 290
+      height: 145
+    spriteID: 05b6535b8f687404286e11e0bc926f24
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1209, y: 2984}
+    spritePosition: {x: 350, y: 649}
+  - name: cabinet2-board4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1041
+      y: 3775
+      width: 305
+      height: 176
+    spriteID: 9f733b029b4d117439139e9d75c73475
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1041, y: 3775}
+    spritePosition: {x: 350, y: 484}
+  - name: cabinet2-drawer1-1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1368
+      y: 3137
+      width: 78
+      height: 59
+    spriteID: 3cf867204e26495449ca1fcdd1beb3b2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1368, y: 3137}
+    spritePosition: {x: 432, y: 482}
+  - name: cabinet2-board1_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1490
+      y: 3210
+      width: 5
+      height: 21
+    spriteID: 263e66c4dbec3214eb45c1523ea4ad43
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1490, y: 3210}
+    spritePosition: {x: 432, y: 484}
+  - name: cabinet2-drawer1-2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1705
+      y: 2291
+      width: 136
+      height: 81
+    spriteID: 143b396253807454ab92cb4c5d78ad2b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1705, y: 2291}
+    spritePosition: {x: 359, y: 489}
+  - name: cabinet2-board2_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1368
+      y: 3204
+      width: 21
+      height: 18
+    spriteID: b51d2a3f6f108b344916c3d44cfba1b4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1368, y: 3204}
+    spritePosition: {x: 486, y: 519}
+  - name: cabinet2-drawer2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1209
+      y: 3137
+      width: 151
+      height: 88
+    spriteID: 0140b377a65ce32449803eb9d2537f9d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1209, y: 3137}
+    spritePosition: {x: 431, y: 518}
+  - name: cabinet2-board3_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1397
+      y: 3204
+      width: 21
+      height: 18
+    spriteID: 1ee233f5fe627fe4593e085f8ee34aa1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1397, y: 3204}
+    spritePosition: {x: 558, y: 555}
+  - name: cabinet2-drawer3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1507
+      y: 3133
+      width: 151
+      height: 88
+    spriteID: 425f2d1c69c0b774fa59ae77be12b4e9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1507, y: 3133}
+    spritePosition: {x: 503, y: 554}
+  - name: cabinet2-board
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1966
+      y: 3200
+      width: 21
+      height: 18
+    spriteID: 9e8285edf9f62444ea7aa8be1d076b2c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1966, y: 3200}
+    spritePosition: {x: 630, y: 591}
+  - name: cabinet3-board
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1500
+      y: 4
+      width: 304
+      height: 578
+    spriteID: 08437b35d11884c4db0aa42e1da2de3d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1500, y: 4}
+    spritePosition: {x: 567, y: 475}
+  - name: cabinet3-door1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1966
+      y: 2984
+      width: 73
+      height: 208
+    spriteID: 0c39b51d892c8a147b42800d5fdffb9d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1966, y: 2984}
+    spritePosition: {x: 656, y: 724}
+  - name: cabinet3-door3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1923
+      y: 3809
+      width: 73
+      height: 208
+    spriteID: bf2556d72730e9040ae291be861a8e22
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1923, y: 3809}
+    spritePosition: {x: 794, y: 793}
+  - name: cabinet3-door2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 187
+      y: 3570
+      width: 73
+      height: 208
+    spriteID: 437bb7ddf360a0f46861d3b19250151c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 187, y: 3570}
+    spritePosition: {x: 725, y: 761}
+  - name: cabinet3-board_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1838
+      y: 925
+      width: 206
+      height: 274
+    spriteID: 49298b7e7cc3c544fab98502203ebb55
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1838, y: 925}
+    spritePosition: {x: 660, y: 726}
+  - name: curtain
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1041
+      y: 3244
+      width: 315
+      height: 523
+    spriteID: 796a3a3210623c448b18622c5da7939b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1041, y: 3244}
+    spritePosition: {x: 885, y: 524}
+  - name: window-grass
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1808
+      y: 3244
+      width: 209
+      height: 381
+    spriteID: 496698f9dc2ecd445bb160b5f73ec9d1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1808, y: 3244}
+    spritePosition: {x: 966, y: 581}
+  - name: 'window-frame
+
+'
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1812
+      y: 4
+      width: 226
+      height: 411
+    spriteID: 87b53a3ba7c97a04e8b89b8bea62dd6e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1812, y: 4}
+    spritePosition: {x: 949, y: 559}
+  - name: Skirting
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 3244
+      width: 1029
+      height: 318
+    spriteID: cee527716a9112242a8a3f7250a35590
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 3244}
+    spritePosition: {x: 176, y: 322}
+  - name: floor
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 2291
+      width: 1029
+      height: 516
+    spriteID: 6dc94e9122fb9ad459e2a6112cf6288e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 2291}
+    spritePosition: {x: 176, y: 112}
+  - name: wall
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1212
+      width: 1087
+      height: 1071
+    spriteID: a23f4e3193bf14742a05a86c5cb79a55
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1212}
+    spritePosition: {x: 147, y: 83}
+  - name: "\u80CC\u666F"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 1488
+      height: 1200
+    spriteID: 66b730c71b361ca4ea661784c1535080
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+    spritePosition: {x: 0, y: 0}
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+    spritePosition: {x: 0, y: 0}
+  rigSpriteImportData:
+  - name: Ceiling
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 2815
+      width: 1029
+      height: 421
+    spriteID: c850be205a361a34f952b32617ab605c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 2815}
+    spritePosition: {x: 176, y: 704}
+  - name: Chair
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1805
+      y: 2984
+      width: 153
+      height: 180
+    spriteID: 73c0c67827ef23c4f836b6e554d903c5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1805, y: 2984}
+    spritePosition: {x: 494, y: 361}
+  - name: computer
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1239
+      y: 3959
+      width: 91
+      height: 117
+    spriteID: 3c2785d0b7ddf2a40a8ec6000546b873
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1239, y: 3959}
+    spritePosition: {x: 431, y: 576}
+  - name: Book1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1454
+      y: 3137
+      width: 34
+      height: 65
+    spriteID: 41c78adc3a6ea0f48bd9c469f617852e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1454, y: 3137}
+    spritePosition: {x: 445, y: 748}
+  - name: Book2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1980
+      y: 423
+      width: 31
+      height: 61
+    spriteID: 169d7d6940f6df643bcf03a6b7b82d3e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1980, y: 423}
+    spritePosition: {x: 455, y: 753}
+  - name: slipper
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1666
+      y: 3133
+      width: 64
+      height: 45
+    spriteID: 628a5803a6a3a9f4dac6f1e3bf7a7c7a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1666, y: 3133}
+    spritePosition: {x: 747, y: 344}
+  - name: football
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1666
+      y: 3186
+      width: 50
+      height: 49
+    spriteID: 6dfb7101dc49f214789aaab456c813b6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1666, y: 3186}
+    spritePosition: {x: 807, y: 260}
+  - name: carpet
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1522
+      y: 2815
+      width: 303
+      height: 152
+    spriteID: b3367debbe472a3468fb185284c61aad
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1522, y: 2815}
+    spritePosition: {x: 594, y: 271}
+  - name: Cup
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1454
+      y: 3210
+      width: 28
+      height: 19
+    spriteID: f63f382424b39124e8298b4b0fe1eee3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1454, y: 3210}
+    spritePosition: {x: 566, y: 625}
+  - name: keyboard
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1738
+      y: 3133
+      width: 56
+      height: 29
+    spriteID: 65a1638a9fdb2ca4bae897a8a2764d10
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1738, y: 3133}
+    spritePosition: {x: 488, y: 560}
+  - name: mouse
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1995
+      y: 3200
+      width: 24
+      height: 12
+    spriteID: 95d9d6f5b0991cf40a7b304c4f8ddf6c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1995, y: 3200}
+    spritePosition: {x: 548, y: 595}
+  - name: Bed-quilt
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1500
+      y: 590
+      width: 523
+      height: 327
+    spriteID: d265d83dad5b4ec46a0baa864f69b5de
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1500, y: 590}
+    spritePosition: {x: 660, y: 379}
+  - name: Bed-board
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1364
+      y: 3809
+      width: 551
+      height: 232
+    spriteID: 11193d2235e5e494b896feeb442ac6b6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1364, y: 3809}
+    spritePosition: {x: 654, y: 308}
+  - name: Bed-CabinetDrawer3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1808
+      y: 3633
+      width: 190
+      height: 131
+    spriteID: 8a0f92da05ae1fe47a3b1a5421f6b6c6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1808, y: 3633}
+    spritePosition: {x: 876, y: 322}
+  - name: Bed-CabinetDrawer2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1833
+      y: 2815
+      width: 191
+      height: 131
+    spriteID: 186683c587e30d44e86f7cac286fff2f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1833, y: 2815}
+    spritePosition: {x: 766, y: 377}
+  - name: Bed-CabinetDrawer1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1041
+      y: 3959
+      width: 190
+      height: 131
+    spriteID: fa1d0d0ffb2309641b9600ca46b460f8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1041, y: 3959}
+    spritePosition: {x: 657, y: 432}
+  - name: Bed-board_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1500
+      y: 925
+      width: 330
+      height: 221
+    spriteID: cdb7f686e40b93048a3b0f1f93b77ff9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1500, y: 925}
+    spritePosition: {x: 654, y: 311}
+  - name: cabinet1-board
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1364
+      y: 3244
+      width: 261
+      height: 557
+    spriteID: 4f20401395379c64fb6fe830e4cccf07
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1364, y: 3244}
+    spritePosition: {x: 176, y: 279}
+  - name: cabinet1-door1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 3570
+      width: 84
+      height: 361
+    spriteID: d8cf00b249d84bb448341e5c66aa960a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 3570}
+    spritePosition: {x: 266, y: 381}
+  - name: cabinet1-door2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 3570
+      width: 83
+      height: 357
+    spriteID: 47b1bef14b01de94ebf4e3cf79ae23e1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 96, y: 3570}
+    spritePosition: {x: 344, y: 423}
+  - name: cabinet1-board_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1543
+      y: 2291
+      width: 154
+      height: 120
+    spriteID: 8251cde276f02544aab3c512f64c0da5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1543, y: 2291}
+    spritePosition: {x: 270, y: 598}
+  - name: cabinet1-stick
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1923
+      y: 4025
+      width: 116
+      height: 66
+    spriteID: 49e526d25c49917449cc7060908be0ef
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1923, y: 4025}
+    spritePosition: {x: 270, y: 584}
+  - name: cabinet1-board_2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1041
+      y: 2815
+      width: 160
+      height: 400
+    spriteID: ca300c3032766984180e9b2abbdfdb45
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1041, y: 2815}
+    spritePosition: {x: 270, y: 381}
+  - name: cabinet1-drawer1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1041
+      y: 2291
+      width: 243
+      height: 151
+    spriteID: a4227729f8eeedb4cb8eb08d4303c147
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1041, y: 2291}
+    spritePosition: {x: 188, y: 334}
+  - name: cabinet1-drawer2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1292
+      y: 2291
+      width: 243
+      height: 151
+    spriteID: d94c5f4103315a6419c76f1f76eee0ab
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1292, y: 2291}
+    spritePosition: {x: 188, y: 295}
+  - name: cabinet1-board_3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1812
+      y: 423
+      width: 160
+      height: 156
+    spriteID: 4dd02c617192ac74197367c109fdbd36
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1812, y: 423}
+    spritePosition: {x: 270, y: 297}
+  - name: cabinet1-board_4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1633
+      y: 3244
+      width: 167
+      height: 501
+    spriteID: bc4747deff7bc12479b4d0685e049de7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1633, y: 3244}
+    spritePosition: {x: 270, y: 283}
+  - name: cabinet2-board1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1209
+      y: 2815
+      width: 305
+      height: 161
+    spriteID: 7e6d428e7fcfd1e4da710679a1a4b461
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1209, y: 2815}
+    spritePosition: {x: 350, y: 783}
+  - name: cabinet2-board2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1507
+      y: 2984
+      width: 290
+      height: 141
+    spriteID: 9539cced22beaf84bb69ebd41a6c814b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1507, y: 2984}
+    spritePosition: {x: 350, y: 717}
+  - name: cabinet2-board3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1209
+      y: 2984
+      width: 290
+      height: 145
+    spriteID: 05b6535b8f687404286e11e0bc926f24
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1209, y: 2984}
+    spritePosition: {x: 350, y: 649}
+  - name: cabinet2-board4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1041
+      y: 3775
+      width: 305
+      height: 176
+    spriteID: 9f733b029b4d117439139e9d75c73475
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1041, y: 3775}
+    spritePosition: {x: 350, y: 484}
+  - name: cabinet2-drawer1-1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1368
+      y: 3137
+      width: 78
+      height: 59
+    spriteID: 3cf867204e26495449ca1fcdd1beb3b2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1368, y: 3137}
+    spritePosition: {x: 432, y: 482}
+  - name: cabinet2-board1_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1490
+      y: 3210
+      width: 5
+      height: 21
+    spriteID: 263e66c4dbec3214eb45c1523ea4ad43
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1490, y: 3210}
+    spritePosition: {x: 432, y: 484}
+  - name: cabinet2-drawer1-2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1705
+      y: 2291
+      width: 136
+      height: 81
+    spriteID: 143b396253807454ab92cb4c5d78ad2b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1705, y: 2291}
+    spritePosition: {x: 359, y: 489}
+  - name: cabinet2-board2_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1368
+      y: 3204
+      width: 21
+      height: 18
+    spriteID: b51d2a3f6f108b344916c3d44cfba1b4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1368, y: 3204}
+    spritePosition: {x: 486, y: 519}
+  - name: cabinet2-drawer2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1209
+      y: 3137
+      width: 151
+      height: 88
+    spriteID: 0140b377a65ce32449803eb9d2537f9d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1209, y: 3137}
+    spritePosition: {x: 431, y: 518}
+  - name: cabinet2-board3_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1397
+      y: 3204
+      width: 21
+      height: 18
+    spriteID: 1ee233f5fe627fe4593e085f8ee34aa1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1397, y: 3204}
+    spritePosition: {x: 558, y: 555}
+  - name: cabinet2-drawer3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1507
+      y: 3133
+      width: 151
+      height: 88
+    spriteID: 425f2d1c69c0b774fa59ae77be12b4e9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1507, y: 3133}
+    spritePosition: {x: 503, y: 554}
+  - name: cabinet2-board
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1966
+      y: 3200
+      width: 21
+      height: 18
+    spriteID: 9e8285edf9f62444ea7aa8be1d076b2c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1966, y: 3200}
+    spritePosition: {x: 630, y: 591}
+  - name: cabinet3-board
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1500
+      y: 4
+      width: 304
+      height: 578
+    spriteID: 08437b35d11884c4db0aa42e1da2de3d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1500, y: 4}
+    spritePosition: {x: 567, y: 475}
+  - name: cabinet3-door1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1966
+      y: 2984
+      width: 73
+      height: 208
+    spriteID: 0c39b51d892c8a147b42800d5fdffb9d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1966, y: 2984}
+    spritePosition: {x: 656, y: 724}
+  - name: cabinet3-door3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1923
+      y: 3809
+      width: 73
+      height: 208
+    spriteID: bf2556d72730e9040ae291be861a8e22
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1923, y: 3809}
+    spritePosition: {x: 794, y: 793}
+  - name: cabinet3-door2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 187
+      y: 3570
+      width: 73
+      height: 208
+    spriteID: 437bb7ddf360a0f46861d3b19250151c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 187, y: 3570}
+    spritePosition: {x: 725, y: 761}
+  - name: cabinet3-board_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1838
+      y: 925
+      width: 206
+      height: 274
+    spriteID: 49298b7e7cc3c544fab98502203ebb55
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1838, y: 925}
+    spritePosition: {x: 660, y: 726}
+  - name: curtain
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1041
+      y: 3244
+      width: 315
+      height: 523
+    spriteID: 796a3a3210623c448b18622c5da7939b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1041, y: 3244}
+    spritePosition: {x: 885, y: 524}
+  - name: window-grass
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1808
+      y: 3244
+      width: 209
+      height: 381
+    spriteID: 496698f9dc2ecd445bb160b5f73ec9d1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1808, y: 3244}
+    spritePosition: {x: 966, y: 581}
+  - name: 'window-frame
+
+'
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1812
+      y: 4
+      width: 226
+      height: 411
+    spriteID: 87b53a3ba7c97a04e8b89b8bea62dd6e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1812, y: 4}
+    spritePosition: {x: 949, y: 559}
+  - name: Skirting
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 3244
+      width: 1029
+      height: 318
+    spriteID: cee527716a9112242a8a3f7250a35590
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 3244}
+    spritePosition: {x: 176, y: 322}
+  - name: floor
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 2291
+      width: 1029
+      height: 516
+    spriteID: 6dc94e9122fb9ad459e2a6112cf6288e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 2291}
+    spritePosition: {x: 176, y: 112}
+  - name: wall
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1212
+      width: 1087
+      height: 1071
+    spriteID: a23f4e3193bf14742a05a86c5cb79a55
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1212}
+    spritePosition: {x: 147, y: 83}
+  - name: "\u80CC\u666F"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 1488
+      height: 1200
+    spriteID: 66b730c71b361ca4ea661784c1535080
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+    spritePosition: {x: 0, y: 0}
+  sharedRigSpriteImportData: []
+  mosaicSpriteImportData: []
+  sharedRigCharacterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    pivot: {x: 0, y: 0}
+    boneReadOnly: 0
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    pivot: {x: 0, y: 0}
+    boneReadOnly: 0
+  platformSettings:
+  - name: Default
+    overridden: 1
+    ignorePlatformSupport: 0
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  mosaicLayers: 1
+  characterMode: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  layerMappingOption: 2
+  generatePhysicsShape: 0
+  paperDollMode: 0
+  keepDupilcateSpriteName: 0
+  generateTileAssets: 0
+  tilePaletteCellLayout: 0
+  tilePaletteHexagonLayout: 0
+  tilePaletteCellSize: {x: 1, y: 1, z: 0}
+  tilePaletteCellSizing: 0
+  transparencySortMode: 0
+  transparencySortAxis: {x: 0, y: 0, z: 1}
+  tileTemplate: {instanceID: 0}
+  padding: 4
+  spriteSizeExpand: 0
+  skeletonAssetReferenceID: 
+  pipeline: {instanceID: 0}
+  pipelineVersion: 
+  spriteCategoryList:
+    categories: []
+  spritePackingTag: 
+  resliceFromLayer: 0
+  pSDLayerImportSetting: []
+  psdLayers:
+  - name: Ceiling
+    spriteName: Ceiling
+    isGroup: 0
+    parentIndex: -1
+    spriteID: c850be205a361a34f952b32617ab605c
+    layerID: 843
+    mosaicPosition: {x: 4, y: 2815}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Chair
+    spriteName: Chair
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 73c0c67827ef23c4f836b6e554d903c5
+    layerID: 853
+    mosaicPosition: {x: 1805, y: 2984}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Accessories
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 4166de8775b0b9c4a81ce6db2a63d692
+    layerID: 486
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: computer
+    spriteName: computer
+    isGroup: 0
+    parentIndex: 2
+    spriteID: 3c2785d0b7ddf2a40a8ec6000546b873
+    layerID: 857
+    mosaicPosition: {x: 1239, y: 3959}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Book1
+    spriteName: Book1
+    isGroup: 0
+    parentIndex: 2
+    spriteID: 41c78adc3a6ea0f48bd9c469f617852e
+    layerID: 917
+    mosaicPosition: {x: 1454, y: 3137}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Book2
+    spriteName: Book2
+    isGroup: 0
+    parentIndex: 2
+    spriteID: 169d7d6940f6df643bcf03a6b7b82d3e
+    layerID: 918
+    mosaicPosition: {x: 1980, y: 423}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: slipper
+    spriteName: slipper
+    isGroup: 0
+    parentIndex: 2
+    spriteID: 628a5803a6a3a9f4dac6f1e3bf7a7c7a
+    layerID: 850
+    mosaicPosition: {x: 1666, y: 3133}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: football
+    spriteName: football
+    isGroup: 0
+    parentIndex: 2
+    spriteID: 6dfb7101dc49f214789aaab456c813b6
+    layerID: 851
+    mosaicPosition: {x: 1666, y: 3186}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: carpet
+    spriteName: carpet
+    isGroup: 0
+    parentIndex: 2
+    spriteID: b3367debbe472a3468fb185284c61aad
+    layerID: 852
+    mosaicPosition: {x: 1522, y: 2815}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Cup
+    spriteName: Cup
+    isGroup: 0
+    parentIndex: 2
+    spriteID: f63f382424b39124e8298b4b0fe1eee3
+    layerID: 854
+    mosaicPosition: {x: 1454, y: 3210}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: computer
+    spriteName: 
+    isGroup: 1
+    parentIndex: 2
+    spriteID: d7bed84a6441a704a924dfb642b39a43
+    layerID: 535
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: keyboard
+    spriteName: keyboard
+    isGroup: 0
+    parentIndex: 10
+    spriteID: 65a1638a9fdb2ca4bae897a8a2764d10
+    layerID: 855
+    mosaicPosition: {x: 1738, y: 3133}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: mouse
+    spriteName: mouse
+    isGroup: 0
+    parentIndex: 10
+    spriteID: 95d9d6f5b0991cf40a7b304c4f8ddf6c
+    layerID: 856
+    mosaicPosition: {x: 1995, y: 3200}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bed
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: b808bef6509a4494ca8c1d1d01f2bc36
+    layerID: 139
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Bed-quilt
+    spriteName: Bed-quilt
+    isGroup: 0
+    parentIndex: 13
+    spriteID: d265d83dad5b4ec46a0baa864f69b5de
+    layerID: 844
+    mosaicPosition: {x: 1500, y: 590}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bed-Cabinet
+    spriteName: 
+    isGroup: 1
+    parentIndex: 13
+    spriteID: bdadff0dc8e265448bc19a0f02ee56f3
+    layerID: 148
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Bed-board
+    spriteName: Bed-board
+    isGroup: 0
+    parentIndex: 15
+    spriteID: 11193d2235e5e494b896feeb442ac6b6
+    layerID: 845
+    mosaicPosition: {x: 1364, y: 3809}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bed-CabinetDrawer3
+    spriteName: Bed-CabinetDrawer3
+    isGroup: 0
+    parentIndex: 15
+    spriteID: 8a0f92da05ae1fe47a3b1a5421f6b6c6
+    layerID: 846
+    mosaicPosition: {x: 1808, y: 3633}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bed-CabinetDrawer2
+    spriteName: Bed-CabinetDrawer2
+    isGroup: 0
+    parentIndex: 15
+    spriteID: 186683c587e30d44e86f7cac286fff2f
+    layerID: 847
+    mosaicPosition: {x: 1833, y: 2815}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bed-CabinetDrawer1
+    spriteName: Bed-CabinetDrawer1
+    isGroup: 0
+    parentIndex: 15
+    spriteID: fa1d0d0ffb2309641b9600ca46b460f8
+    layerID: 848
+    mosaicPosition: {x: 1041, y: 3959}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bed-board
+    spriteName: Bed-board_1
+    isGroup: 0
+    parentIndex: 15
+    spriteID: cdb7f686e40b93048a3b0f1f93b77ff9
+    layerID: 849
+    mosaicPosition: {x: 1500, y: 925}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: cabinet
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 61f40f112cad89648ae2e568008a8b0e
+    layerID: 144
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: cabinet1-
+    spriteName: 
+    isGroup: 1
+    parentIndex: 21
+    spriteID: fd3fe0c05e076a544985a58af9c3fa01
+    layerID: 202
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: cabinet1-board
+    spriteName: cabinet1-board
+    isGroup: 0
+    parentIndex: 22
+    spriteID: 4f20401395379c64fb6fe830e4cccf07
+    layerID: 905
+    mosaicPosition: {x: 1364, y: 3244}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: cabinet1-door1
+    spriteName: cabinet1-door1
+    isGroup: 0
+    parentIndex: 22
+    spriteID: d8cf00b249d84bb448341e5c66aa960a
+    layerID: 906
+    mosaicPosition: {x: 4, y: 3570}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: cabinet1-door2
+    spriteName: cabinet1-door2
+    isGroup: 0
+    parentIndex: 22
+    spriteID: 47b1bef14b01de94ebf4e3cf79ae23e1
+    layerID: 907
+    mosaicPosition: {x: 96, y: 3570}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: cabinet1-board
+    spriteName: cabinet1-board_1
+    isGroup: 0
+    parentIndex: 22
+    spriteID: 8251cde276f02544aab3c512f64c0da5
+    layerID: 908
+    mosaicPosition: {x: 1543, y: 2291}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: cabinet1-stick
+    spriteName: cabinet1-stick
+    isGroup: 0
+    parentIndex: 22
+    spriteID: 49e526d25c49917449cc7060908be0ef
+    layerID: 909
+    mosaicPosition: {x: 1923, y: 4025}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: cabinet1-board
+    spriteName: cabinet1-board_2
+    isGroup: 0
+    parentIndex: 22
+    spriteID: ca300c3032766984180e9b2abbdfdb45
+    layerID: 910
+    mosaicPosition: {x: 1041, y: 2815}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: cabinet1-drawer1
+    spriteName: cabinet1-drawer1
+    isGroup: 0
+    parentIndex: 22
+    spriteID: a4227729f8eeedb4cb8eb08d4303c147
+    layerID: 911
+    mosaicPosition: {x: 1041, y: 2291}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: cabinet1-drawer2
+    spriteName: cabinet1-drawer2
+    isGroup: 0
+    parentIndex: 22
+    spriteID: d94c5f4103315a6419c76f1f76eee0ab
+    layerID: 912
+    mosaicPosition: {x: 1292, y: 2291}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: cabinet1-board
+    spriteName: cabinet1-board_3
+    isGroup: 0
+    parentIndex: 22
+    spriteID: 4dd02c617192ac74197367c109fdbd36
+    layerID: 913
+    mosaicPosition: {x: 1812, y: 423}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: cabinet1-board
+    spriteName: cabinet1-board_4
+    isGroup: 0
+    parentIndex: 22
+    spriteID: bc4747deff7bc12479b4d0685e049de7
+    layerID: 914
+    mosaicPosition: {x: 1633, y: 3244}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: cabinet2-
+    spriteName: 
+    isGroup: 1
+    parentIndex: 21
+    spriteID: 8d6e40f962ffe9b4986b7a6d7accdded
+    layerID: 106
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: cabinet2-board1
+    spriteName: cabinet2-board1
+    isGroup: 0
+    parentIndex: 33
+    spriteID: 7e6d428e7fcfd1e4da710679a1a4b461
+    layerID: 893
+    mosaicPosition: {x: 1209, y: 2815}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: cabinet2-board2
+    spriteName: cabinet2-board2
+    isGroup: 0
+    parentIndex: 33
+    spriteID: 9539cced22beaf84bb69ebd41a6c814b
+    layerID: 894
+    mosaicPosition: {x: 1507, y: 2984}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: cabinet2-board3
+    spriteName: cabinet2-board3
+    isGroup: 0
+    parentIndex: 33
+    spriteID: 05b6535b8f687404286e11e0bc926f24
+    layerID: 895
+    mosaicPosition: {x: 1209, y: 2984}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: cabinet2-board4
+    spriteName: cabinet2-board4
+    isGroup: 0
+    parentIndex: 33
+    spriteID: 9f733b029b4d117439139e9d75c73475
+    layerID: 896
+    mosaicPosition: {x: 1041, y: 3775}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: cabinet2-drawer1-1
+    spriteName: cabinet2-drawer1-1
+    isGroup: 0
+    parentIndex: 33
+    spriteID: 3cf867204e26495449ca1fcdd1beb3b2
+    layerID: 897
+    mosaicPosition: {x: 1368, y: 3137}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: cabinet2-board1
+    spriteName: cabinet2-board1_1
+    isGroup: 0
+    parentIndex: 33
+    spriteID: 263e66c4dbec3214eb45c1523ea4ad43
+    layerID: 898
+    mosaicPosition: {x: 1490, y: 3210}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: cabinet2-drawer1-2
+    spriteName: cabinet2-drawer1-2
+    isGroup: 0
+    parentIndex: 33
+    spriteID: 143b396253807454ab92cb4c5d78ad2b
+    layerID: 899
+    mosaicPosition: {x: 1705, y: 2291}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: cabinet2-board2
+    spriteName: cabinet2-board2_1
+    isGroup: 0
+    parentIndex: 33
+    spriteID: b51d2a3f6f108b344916c3d44cfba1b4
+    layerID: 900
+    mosaicPosition: {x: 1368, y: 3204}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: cabinet2-drawer2
+    spriteName: cabinet2-drawer2
+    isGroup: 0
+    parentIndex: 33
+    spriteID: 0140b377a65ce32449803eb9d2537f9d
+    layerID: 901
+    mosaicPosition: {x: 1209, y: 3137}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: cabinet2-board3
+    spriteName: cabinet2-board3_1
+    isGroup: 0
+    parentIndex: 33
+    spriteID: 1ee233f5fe627fe4593e085f8ee34aa1
+    layerID: 902
+    mosaicPosition: {x: 1397, y: 3204}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: cabinet2-drawer3
+    spriteName: cabinet2-drawer3
+    isGroup: 0
+    parentIndex: 33
+    spriteID: 425f2d1c69c0b774fa59ae77be12b4e9
+    layerID: 903
+    mosaicPosition: {x: 1507, y: 3133}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: cabinet2-board
+    spriteName: cabinet2-board
+    isGroup: 0
+    parentIndex: 33
+    spriteID: 9e8285edf9f62444ea7aa8be1d076b2c
+    layerID: 904
+    mosaicPosition: {x: 1966, y: 3200}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: cabinet3-
+    spriteName: 
+    isGroup: 1
+    parentIndex: 21
+    spriteID: a25e8dfb9393a1a4ebb6dff94be2bd56
+    layerID: 111
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: cabinet3-board
+    spriteName: cabinet3-board
+    isGroup: 0
+    parentIndex: 46
+    spriteID: 08437b35d11884c4db0aa42e1da2de3d
+    layerID: 888
+    mosaicPosition: {x: 1500, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: cabinet3-door1
+    spriteName: cabinet3-door1
+    isGroup: 0
+    parentIndex: 46
+    spriteID: 0c39b51d892c8a147b42800d5fdffb9d
+    layerID: 889
+    mosaicPosition: {x: 1966, y: 2984}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: cabinet3-door3
+    spriteName: cabinet3-door3
+    isGroup: 0
+    parentIndex: 46
+    spriteID: bf2556d72730e9040ae291be861a8e22
+    layerID: 890
+    mosaicPosition: {x: 1923, y: 3809}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: cabinet3-door2
+    spriteName: cabinet3-door2
+    isGroup: 0
+    parentIndex: 46
+    spriteID: 437bb7ddf360a0f46861d3b19250151c
+    layerID: 891
+    mosaicPosition: {x: 187, y: 3570}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: cabinet3-board
+    spriteName: cabinet3-board_1
+    isGroup: 0
+    parentIndex: 46
+    spriteID: 49298b7e7cc3c544fab98502203ebb55
+    layerID: 892
+    mosaicPosition: {x: 1838, y: 925}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: wall
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 2ddc26a272635084987cec8ea2e4de3f
+    layerID: 48
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: curtain
+    spriteName: curtain
+    isGroup: 0
+    parentIndex: 52
+    spriteID: 796a3a3210623c448b18622c5da7939b
+    layerID: 861
+    mosaicPosition: {x: 1041, y: 3244}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: window
+    spriteName: 
+    isGroup: 1
+    parentIndex: 52
+    spriteID: 077ee03d293285043b92f312ebb37111
+    layerID: 547
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: window-grass
+    spriteName: window-grass
+    isGroup: 0
+    parentIndex: 54
+    spriteID: 496698f9dc2ecd445bb160b5f73ec9d1
+    layerID: 864
+    mosaicPosition: {x: 1808, y: 3244}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: 'window-frame
+
+'
+    spriteName: 'window-frame
+
+'
+    isGroup: 0
+    parentIndex: 54
+    spriteID: 87b53a3ba7c97a04e8b89b8bea62dd6e
+    layerID: 863
+    mosaicPosition: {x: 1812, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Skirting
+    spriteName: Skirting
+    isGroup: 0
+    parentIndex: 52
+    spriteID: cee527716a9112242a8a3f7250a35590
+    layerID: 865
+    mosaicPosition: {x: 4, y: 3244}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: floor
+    spriteName: floor
+    isGroup: 0
+    parentIndex: 52
+    spriteID: 6dc94e9122fb9ad459e2a6112cf6288e
+    layerID: 887
+    mosaicPosition: {x: 4, y: 2291}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: wall
+    spriteName: wall
+    isGroup: 0
+    parentIndex: 52
+    spriteID: a23f4e3193bf14742a05a86c5cb79a55
+    layerID: 876
+    mosaicPosition: {x: 4, y: 1212}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: "\u80CC\u666F"
+    spriteName: "\u80CC\u666F"
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 66b730c71b361ca4ea661784c1535080
+    layerID: 1
+    mosaicPosition: {x: 4, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  mosaicPSDLayers: []
+  rigPSDLayers:
+  - name: Ceiling
+    spriteName: Ceiling
+    isGroup: 0
+    parentIndex: -1
+    spriteID: c850be205a361a34f952b32617ab605c
+    layerID: 843
+    mosaicPosition: {x: 4, y: 2815}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: Chair
+    spriteName: Chair
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 73c0c67827ef23c4f836b6e554d903c5
+    layerID: 853
+    mosaicPosition: {x: 1805, y: 2984}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: Accessories
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 4166de8775b0b9c4a81ce6db2a63d692
+    layerID: 486
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: computer
+    spriteName: computer
+    isGroup: 0
+    parentIndex: 2
+    spriteID: 3c2785d0b7ddf2a40a8ec6000546b873
+    layerID: 857
+    mosaicPosition: {x: 1239, y: 3959}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: Book1
+    spriteName: Book1
+    isGroup: 0
+    parentIndex: 2
+    spriteID: 41c78adc3a6ea0f48bd9c469f617852e
+    layerID: 917
+    mosaicPosition: {x: 1454, y: 3137}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: Book2
+    spriteName: Book2
+    isGroup: 0
+    parentIndex: 2
+    spriteID: 169d7d6940f6df643bcf03a6b7b82d3e
+    layerID: 918
+    mosaicPosition: {x: 1980, y: 423}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: slipper
+    spriteName: slipper
+    isGroup: 0
+    parentIndex: 2
+    spriteID: 628a5803a6a3a9f4dac6f1e3bf7a7c7a
+    layerID: 850
+    mosaicPosition: {x: 1666, y: 3133}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: football
+    spriteName: football
+    isGroup: 0
+    parentIndex: 2
+    spriteID: 6dfb7101dc49f214789aaab456c813b6
+    layerID: 851
+    mosaicPosition: {x: 1666, y: 3186}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: carpet
+    spriteName: carpet
+    isGroup: 0
+    parentIndex: 2
+    spriteID: b3367debbe472a3468fb185284c61aad
+    layerID: 852
+    mosaicPosition: {x: 1522, y: 2815}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: Cup
+    spriteName: Cup
+    isGroup: 0
+    parentIndex: 2
+    spriteID: f63f382424b39124e8298b4b0fe1eee3
+    layerID: 854
+    mosaicPosition: {x: 1454, y: 3210}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: computer
+    spriteName: 
+    isGroup: 1
+    parentIndex: 2
+    spriteID: d7bed84a6441a704a924dfb642b39a43
+    layerID: 535
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: keyboard
+    spriteName: keyboard
+    isGroup: 0
+    parentIndex: 10
+    spriteID: 65a1638a9fdb2ca4bae897a8a2764d10
+    layerID: 855
+    mosaicPosition: {x: 1738, y: 3133}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: mouse
+    spriteName: mouse
+    isGroup: 0
+    parentIndex: 10
+    spriteID: 95d9d6f5b0991cf40a7b304c4f8ddf6c
+    layerID: 856
+    mosaicPosition: {x: 1995, y: 3200}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: Bed
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: b808bef6509a4494ca8c1d1d01f2bc36
+    layerID: 139
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: Bed-quilt
+    spriteName: Bed-quilt
+    isGroup: 0
+    parentIndex: 13
+    spriteID: d265d83dad5b4ec46a0baa864f69b5de
+    layerID: 844
+    mosaicPosition: {x: 1500, y: 590}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: Bed-Cabinet
+    spriteName: 
+    isGroup: 1
+    parentIndex: 13
+    spriteID: bdadff0dc8e265448bc19a0f02ee56f3
+    layerID: 148
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: Bed-board
+    spriteName: Bed-board
+    isGroup: 0
+    parentIndex: 15
+    spriteID: 11193d2235e5e494b896feeb442ac6b6
+    layerID: 845
+    mosaicPosition: {x: 1364, y: 3809}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: Bed-CabinetDrawer3
+    spriteName: Bed-CabinetDrawer3
+    isGroup: 0
+    parentIndex: 15
+    spriteID: 8a0f92da05ae1fe47a3b1a5421f6b6c6
+    layerID: 846
+    mosaicPosition: {x: 1808, y: 3633}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: Bed-CabinetDrawer2
+    spriteName: Bed-CabinetDrawer2
+    isGroup: 0
+    parentIndex: 15
+    spriteID: 186683c587e30d44e86f7cac286fff2f
+    layerID: 847
+    mosaicPosition: {x: 1833, y: 2815}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: Bed-CabinetDrawer1
+    spriteName: Bed-CabinetDrawer1
+    isGroup: 0
+    parentIndex: 15
+    spriteID: fa1d0d0ffb2309641b9600ca46b460f8
+    layerID: 848
+    mosaicPosition: {x: 1041, y: 3959}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: Bed-board
+    spriteName: Bed-board_1
+    isGroup: 0
+    parentIndex: 15
+    spriteID: cdb7f686e40b93048a3b0f1f93b77ff9
+    layerID: 849
+    mosaicPosition: {x: 1500, y: 925}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: cabinet
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 61f40f112cad89648ae2e568008a8b0e
+    layerID: 144
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: cabinet1-
+    spriteName: 
+    isGroup: 1
+    parentIndex: 21
+    spriteID: fd3fe0c05e076a544985a58af9c3fa01
+    layerID: 202
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: cabinet1-board
+    spriteName: cabinet1-board
+    isGroup: 0
+    parentIndex: 22
+    spriteID: 4f20401395379c64fb6fe830e4cccf07
+    layerID: 905
+    mosaicPosition: {x: 1364, y: 3244}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: cabinet1-door1
+    spriteName: cabinet1-door1
+    isGroup: 0
+    parentIndex: 22
+    spriteID: d8cf00b249d84bb448341e5c66aa960a
+    layerID: 906
+    mosaicPosition: {x: 4, y: 3570}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: cabinet1-door2
+    spriteName: cabinet1-door2
+    isGroup: 0
+    parentIndex: 22
+    spriteID: 47b1bef14b01de94ebf4e3cf79ae23e1
+    layerID: 907
+    mosaicPosition: {x: 96, y: 3570}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: cabinet1-board
+    spriteName: cabinet1-board_1
+    isGroup: 0
+    parentIndex: 22
+    spriteID: 8251cde276f02544aab3c512f64c0da5
+    layerID: 908
+    mosaicPosition: {x: 1543, y: 2291}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: cabinet1-stick
+    spriteName: cabinet1-stick
+    isGroup: 0
+    parentIndex: 22
+    spriteID: 49e526d25c49917449cc7060908be0ef
+    layerID: 909
+    mosaicPosition: {x: 1923, y: 4025}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: cabinet1-board
+    spriteName: cabinet1-board_2
+    isGroup: 0
+    parentIndex: 22
+    spriteID: ca300c3032766984180e9b2abbdfdb45
+    layerID: 910
+    mosaicPosition: {x: 1041, y: 2815}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: cabinet1-drawer1
+    spriteName: cabinet1-drawer1
+    isGroup: 0
+    parentIndex: 22
+    spriteID: a4227729f8eeedb4cb8eb08d4303c147
+    layerID: 911
+    mosaicPosition: {x: 1041, y: 2291}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: cabinet1-drawer2
+    spriteName: cabinet1-drawer2
+    isGroup: 0
+    parentIndex: 22
+    spriteID: d94c5f4103315a6419c76f1f76eee0ab
+    layerID: 912
+    mosaicPosition: {x: 1292, y: 2291}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: cabinet1-board
+    spriteName: cabinet1-board_3
+    isGroup: 0
+    parentIndex: 22
+    spriteID: 4dd02c617192ac74197367c109fdbd36
+    layerID: 913
+    mosaicPosition: {x: 1812, y: 423}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: cabinet1-board
+    spriteName: cabinet1-board_4
+    isGroup: 0
+    parentIndex: 22
+    spriteID: bc4747deff7bc12479b4d0685e049de7
+    layerID: 914
+    mosaicPosition: {x: 1633, y: 3244}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: cabinet2-
+    spriteName: 
+    isGroup: 1
+    parentIndex: 21
+    spriteID: 8d6e40f962ffe9b4986b7a6d7accdded
+    layerID: 106
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: cabinet2-board1
+    spriteName: cabinet2-board1
+    isGroup: 0
+    parentIndex: 33
+    spriteID: 7e6d428e7fcfd1e4da710679a1a4b461
+    layerID: 893
+    mosaicPosition: {x: 1209, y: 2815}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: cabinet2-board2
+    spriteName: cabinet2-board2
+    isGroup: 0
+    parentIndex: 33
+    spriteID: 9539cced22beaf84bb69ebd41a6c814b
+    layerID: 894
+    mosaicPosition: {x: 1507, y: 2984}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: cabinet2-board3
+    spriteName: cabinet2-board3
+    isGroup: 0
+    parentIndex: 33
+    spriteID: 05b6535b8f687404286e11e0bc926f24
+    layerID: 895
+    mosaicPosition: {x: 1209, y: 2984}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: cabinet2-board4
+    spriteName: cabinet2-board4
+    isGroup: 0
+    parentIndex: 33
+    spriteID: 9f733b029b4d117439139e9d75c73475
+    layerID: 896
+    mosaicPosition: {x: 1041, y: 3775}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: cabinet2-drawer1-1
+    spriteName: cabinet2-drawer1-1
+    isGroup: 0
+    parentIndex: 33
+    spriteID: 3cf867204e26495449ca1fcdd1beb3b2
+    layerID: 897
+    mosaicPosition: {x: 1368, y: 3137}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: cabinet2-board1
+    spriteName: cabinet2-board1_1
+    isGroup: 0
+    parentIndex: 33
+    spriteID: 263e66c4dbec3214eb45c1523ea4ad43
+    layerID: 898
+    mosaicPosition: {x: 1490, y: 3210}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: cabinet2-drawer1-2
+    spriteName: cabinet2-drawer1-2
+    isGroup: 0
+    parentIndex: 33
+    spriteID: 143b396253807454ab92cb4c5d78ad2b
+    layerID: 899
+    mosaicPosition: {x: 1705, y: 2291}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: cabinet2-board2
+    spriteName: cabinet2-board2_1
+    isGroup: 0
+    parentIndex: 33
+    spriteID: b51d2a3f6f108b344916c3d44cfba1b4
+    layerID: 900
+    mosaicPosition: {x: 1368, y: 3204}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: cabinet2-drawer2
+    spriteName: cabinet2-drawer2
+    isGroup: 0
+    parentIndex: 33
+    spriteID: 0140b377a65ce32449803eb9d2537f9d
+    layerID: 901
+    mosaicPosition: {x: 1209, y: 3137}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: cabinet2-board3
+    spriteName: cabinet2-board3_1
+    isGroup: 0
+    parentIndex: 33
+    spriteID: 1ee233f5fe627fe4593e085f8ee34aa1
+    layerID: 902
+    mosaicPosition: {x: 1397, y: 3204}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: cabinet2-drawer3
+    spriteName: cabinet2-drawer3
+    isGroup: 0
+    parentIndex: 33
+    spriteID: 425f2d1c69c0b774fa59ae77be12b4e9
+    layerID: 903
+    mosaicPosition: {x: 1507, y: 3133}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: cabinet2-board
+    spriteName: cabinet2-board
+    isGroup: 0
+    parentIndex: 33
+    spriteID: 9e8285edf9f62444ea7aa8be1d076b2c
+    layerID: 904
+    mosaicPosition: {x: 1966, y: 3200}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: cabinet3-
+    spriteName: 
+    isGroup: 1
+    parentIndex: 21
+    spriteID: a25e8dfb9393a1a4ebb6dff94be2bd56
+    layerID: 111
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: cabinet3-board
+    spriteName: cabinet3-board
+    isGroup: 0
+    parentIndex: 46
+    spriteID: 08437b35d11884c4db0aa42e1da2de3d
+    layerID: 888
+    mosaicPosition: {x: 1500, y: 4}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: cabinet3-door1
+    spriteName: cabinet3-door1
+    isGroup: 0
+    parentIndex: 46
+    spriteID: 0c39b51d892c8a147b42800d5fdffb9d
+    layerID: 889
+    mosaicPosition: {x: 1966, y: 2984}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: cabinet3-door3
+    spriteName: cabinet3-door3
+    isGroup: 0
+    parentIndex: 46
+    spriteID: bf2556d72730e9040ae291be861a8e22
+    layerID: 890
+    mosaicPosition: {x: 1923, y: 3809}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: cabinet3-door2
+    spriteName: cabinet3-door2
+    isGroup: 0
+    parentIndex: 46
+    spriteID: 437bb7ddf360a0f46861d3b19250151c
+    layerID: 891
+    mosaicPosition: {x: 187, y: 3570}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: cabinet3-board
+    spriteName: cabinet3-board_1
+    isGroup: 0
+    parentIndex: 46
+    spriteID: 49298b7e7cc3c544fab98502203ebb55
+    layerID: 892
+    mosaicPosition: {x: 1838, y: 925}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: wall
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 2ddc26a272635084987cec8ea2e4de3f
+    layerID: 48
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: curtain
+    spriteName: curtain
+    isGroup: 0
+    parentIndex: 52
+    spriteID: 796a3a3210623c448b18622c5da7939b
+    layerID: 861
+    mosaicPosition: {x: 1041, y: 3244}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: window
+    spriteName: 
+    isGroup: 1
+    parentIndex: 52
+    spriteID: 077ee03d293285043b92f312ebb37111
+    layerID: 547
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: window-grass
+    spriteName: window-grass
+    isGroup: 0
+    parentIndex: 54
+    spriteID: 496698f9dc2ecd445bb160b5f73ec9d1
+    layerID: 864
+    mosaicPosition: {x: 1808, y: 3244}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: 'window-frame
+
+'
+    spriteName: 'window-frame
+
+'
+    isGroup: 0
+    parentIndex: 54
+    spriteID: 87b53a3ba7c97a04e8b89b8bea62dd6e
+    layerID: 863
+    mosaicPosition: {x: 1812, y: 4}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: Skirting
+    spriteName: Skirting
+    isGroup: 0
+    parentIndex: 52
+    spriteID: cee527716a9112242a8a3f7250a35590
+    layerID: 865
+    mosaicPosition: {x: 4, y: 3244}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: floor
+    spriteName: floor
+    isGroup: 0
+    parentIndex: 52
+    spriteID: 6dc94e9122fb9ad459e2a6112cf6288e
+    layerID: 887
+    mosaicPosition: {x: 4, y: 2291}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: wall
+    spriteName: wall
+    isGroup: 0
+    parentIndex: 52
+    spriteID: a23f4e3193bf14742a05a86c5cb79a55
+    layerID: 876
+    mosaicPosition: {x: 4, y: 1212}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: "\u80CC\u666F"
+    spriteName: "\u80CC\u666F"
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 66b730c71b361ca4ea661784c1535080
+    layerID: 1
+    mosaicPosition: {x: 4, y: 4}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  sharedRigPSDLayers: []
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  spriteSizeExpandChanged: 0
+  generateGOHierarchy: 0
+  textureAssetName: "room\u82F1\u6587-\u5BFC\u51FA Texture"
+  prefabAssetName: "room\u82F1\u6587-\u5BFC\u51FA Prefab"
+  spriteLibAssetName: "room\u82F1\u6587-\u5BFC\u51FA Sprite Lib"
+  skeletonAssetName: 
+  secondarySpriteTextures: []

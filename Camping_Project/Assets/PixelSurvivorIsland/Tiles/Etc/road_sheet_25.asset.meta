@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: af247dc6d9ef4364eb24d039f7150b9a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 232773
+  packageName: Pixel Survivor Island
+  packageVersion: 1.0
+  assetPath: Assets/PixelSurvivorIsland/Tiles/Etc/road_sheet_25.asset
+  uploadId: 525874

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 500a0cfc318baa048ad97e93df3189cb
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 232773
+  packageName: Pixel Survivor Island
+  packageVersion: 1.0
+  assetPath: Assets/PixelSurvivorIsland/Tiles/Palettes/road_sheet.prefab
+  uploadId: 525874

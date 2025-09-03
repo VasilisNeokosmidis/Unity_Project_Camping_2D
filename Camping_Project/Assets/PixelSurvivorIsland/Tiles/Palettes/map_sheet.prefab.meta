@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4f18085ee7970554b80b6d7dc539929b
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 232773
+  packageName: Pixel Survivor Island
+  packageVersion: 1.0
+  assetPath: Assets/PixelSurvivorIsland/Tiles/Palettes/map_sheet.prefab
+  uploadId: 525874

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0ec12e8cd49dbe94689d9a916931fa0e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 232773
+  packageName: Pixel Survivor Island
+  packageVersion: 1.0
+  assetPath: Assets/PixelSurvivorIsland/Tiles/Etc/ship_sheet_75.asset
+  uploadId: 525874
